@@ -1,0 +1,8 @@
+print("My name is", end=" ")
+print("K.Kaustubh")
+print("My age is", end=" ")
+print(12)
+print("I study in grade-", end="")
+print(7)
+print("I like doing coding")
+print("A LOT")
