@@ -5,4 +5,4 @@ rad=dia/2
 circ= 2*3.14*rad
 print("The circumference of a circle where diameter is",dia,"is", circ)
 print("The radius is",rad,"and if it is rounded off,",int(rad//1))
-# Thank you
+# Thank you!
